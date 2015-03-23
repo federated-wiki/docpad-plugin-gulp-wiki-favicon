@@ -1,0 +1,38 @@
+{
+  "name": "docpad-plugin-gulp-wiki-favicon",
+  "version": "0.0.1",
+  "description": "This DocPad plugin integrates a hosted gulp pipeline, based on the canvas module, for the favicon generator of wiki-client.",
+  "main": "gulp",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-file": "^0.2.0",
+    "canvas": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/federated-wiki/docpad-plugin-gulp-wiki-favicon.git"
+  },
+  "keywords": [
+    "docpad",
+    "plugin",
+    "gulp",
+    "wiki",
+    "favicon",
+    "gradient",
+    "canvas",
+    "colours",
+    "colors",
+    "rainbow",
+    "icon"
+  ],
+  "author": "Jon Richter (@almereyda)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/federated-wiki/docpad-plugin-gulp-wiki-favicon/issues"
+  },
+  "homepage": "https://github.com/federated-wiki/docpad-plugin-gulp-wiki-favicon"
+}
